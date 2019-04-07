@@ -20,3 +20,6 @@ http://www.doodnet.net/
 
 http://www.woshipm.com/user-research/1382803.html
 https://www.digitaling.com/articles/44656.html
+
+	患者感知价值模型英文文献综述
+  http://www.docin.com/p-573871838.html
