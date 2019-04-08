@@ -169,3 +169,7 @@ CLV的计算公式有非常多，有的会非常复杂，主要在流失率这�
 本文由 @ kitty 原创发布于人人都是产品经理。未经许可，禁止转载
 
 题图来自Unsplash，基于CC0协议
+
+
+### 新社交媒介浪潮下：企业评估顾客价值的二阶因子模型建构
+http://ir.gxun.edu.cn/online-view/530500/1821/1/%E6%96%B0%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BB%8B%E6%B5%AA%E6%BD%AE%E4%B8%8B_%E4%BC%81%E4%B8%9A%E8%AF%84%E4%BC%B0%E9%A1%BE%E5%AE%A2%E4%BB%B7%E5%80%BC%E7%9A%84%E4%BA%8C%E9%98%B6%E5%9B%A0%E5%AD%90%E6%A8%A1%E5%9E%8B%E5%BB%BA%E6%9E%84.pdf
