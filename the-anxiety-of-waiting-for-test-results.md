@@ -13,21 +13,16 @@ Photo
 Credit Keith Negley
 
   
-After MaryAnn and Drew Szilagyi, a Houston couple in their early 30s, saw their physician for routine physicals a few years ago, they didn’t have to wait for his call about the blood work. Just two days later, Mr. Szilagyi, a banker, logged onto a Web site, perused his lab results and sighed with relief. All normal.
+30岁的夫妇MaryAnn和Drew Szilagyi，老公Drew Szilagyi是个银行职员，老婆MaryAnn是为厨具销售员，老婆有乳腺癌家族史。夫妇俩日常的疾病都是找这位医生看的，已经有很多年了，抽完血以后夫妇俩也不会坐等医生打电话联系他们告知化验结果。两天后，老公登录到网站中详细浏览了自己的化验结果，长舒了一口气。一切正常。
 
-But when Mrs. Szilagyi, who sells luxury kitchen equipment, followed suit, no results were displayed. Instead, a message flashed: Contact Doctor’s Office.
+Szilagyi太太随后也查看了自己的结果，但什么都没有。相反，有一条提示消息，“请联系医生”。
+她一下子就紧张了起来。当天她就给医生留了四次言，但医生都没有回复。第二天，她找到登记报告的护士想询问一番，护士看了眼她的化验报告，告诉她没什么好担心的。
 
-Her internal alarms began clanging.
+这时候 Szilagyi 太太的内心既焦躁又惶恐，到底化验结果如何？
 
-That day she left four messages for her doctor. No response. The next day, Mrs. Szilagyi, who has a family history of [breast cancer](//health.nytimes.com/health/guides/disease/breast-cancer/overview.html?inline=nyt-classifier "In-depth reference and news articles about Breast cancer."), pleaded with the receptionist for help. She pulled Mrs. Szilagyi’s chart and said, “I can’t tell you what it says, but I don’t think you should worry.”
+第三天，医生助理打电话给她。告知她是维生素D不足(维生素D缺乏症).35岁的 Szilagyi 瞬间松了一口气，觉也睡得着，饭也吃得下了。
 
-Now angry as well as frightened, Mrs. Szilagyi continued to worry. On the third day, the doctor’s nurse reached her. What result had caused so much mystery and misery?
-
-Mrs. Szilagyi, it turned out, had a [vitamin D deficiency](//health.nytimes.com/health/guides/disease/rickets/overview.html?inline=nyt-classifier "In-depth reference and news articles about Rickets.").
-
-“All that stress over getting some more sun and eating better,” said Mrs. Szilagyi, now 35.
-
-The excruciating limbo that follows significant medical tests is a nearly universal experience for patients. Doctors do not always ease patients’ anxiety, delivering bad news matter-of-factly, failing to call swiftly, even losing results altogether.
+对于大多数患者来讲，在做了一个重要的化验之后，几乎都要经过炼狱拌的心理折磨。医生并不总是能减轻患者的焦虑，亦或是实事求是地告知你坏消息，第一时间电话告知你结果，有时候甚至还会把结果弄丢。
 
 As medical records move online and state regulations loosen, many patients can bypass the doctor’s call and get the results of these tests faster, directly from labs via Web sites and apps. But new federal regulations may permit all patients that right by year’s end. Many experts are concerned that pervasive direct access to test results may have serious drawbacks, leaving patients even more confused and overwhelmed by information they do not know how to interpret.
 
