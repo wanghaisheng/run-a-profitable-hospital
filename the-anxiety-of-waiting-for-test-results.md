@@ -126,18 +126,18 @@ Dr. Montgomery says mental toughness may be overrated. “People say, ‘Suck it
 
 
 
-如何度过等待体检结果的焦虑期
+如何度过等待化验结果的焦虑期
 --------------
 
 更新时间:2013-12-12 13:33:16 来源:[纽约时报中文网](http://cn.nytimes.com/) 作者:佚名
 
 
 The Anxiety of Waiting for Test Results  
-如何度过等待体检结果的焦虑期
+如何度过等待化验结果的焦虑期
 
 After MaryAnn and Drew Szilagyi, a Houston couple in their early 30s, saw their physician for routine physicals a few years ago, they didn’t have to wait for his call about the blood work. Just two days later, Mr. Szilagyi, a banker, logged onto a Web site, perused his lab results and sighed with relief. All normal.
 
-几年前，住在休斯顿、30岁出头的玛丽·安(MaryAnn)和德鲁·西拉吉(Drew Szilagyi)夫妇做了次常规体检，他们不必等待医生打电话通知血检结果。只消两天，银行家西拉吉先生就能登陆网站，仔细阅读他的体检报告。他长舒一口气——一切正常。
+几年前，住在休斯顿、30岁出头的玛丽·安(MaryAnn)和德鲁·西拉吉(Drew Szilagyi)夫妇做了次常规化验，他们不必等待医生打电话通知血检结果。只消两天，银行家西拉吉先生就能登陆网站，仔细阅读他的化验报告。他长舒一口气——一切正常。
 
 But when Mrs. Szilagyi, who sells luxury kitchen equipment, followed suit, no results were displayed. Instead, a message flashed: Contact Doctor’s Office.
 
@@ -165,11 +165,11 @@ Mrs. Szilagyi, it turned out, had a vitamin D deficiency.
 
 The excruciating limbo that follows significant medical tests is a nearly universal experience for patients. Doctors do not always ease patients’ anxiety, delivering bad news matter-of-factly, failing to call swiftly, even losing results altogether.
 
-每个病人都经历过重要检查后的焦心时刻。医生时常对病人的焦虑视而不见，直白地传达坏消息，不及时打电话通知，甚至能把体检报告整个弄丢。
+每个病人都经历过重要检查后的焦心时刻。医生时常对病人的焦虑视而不见，直白地传达坏消息，不及时打电话通知，甚至能把化验报告整个弄丢。
 
 As medical records move online and state regulations loosen, many patients can bypass the doctor’s call and get the results of these tests faster, directly from labs via Web sites and apps. But new federal regulations may permit all patients that right by year’s end. Many experts are concerned that pervasive direct access to test results may have serious drawbacks, leaving patients even more confused and overwhelmed by information they do not know how to interpret.
 
-随着医院将病例上传到网上以及州法规的放松，很多病人无需等候医生来电就能快速通过互联网和应用程序从化验室直接获得诊断结果。而2012年年底之前，新的联邦法规也许能将此项权利授予所有病人。很多专家担心让体检报告如此唾手可得会造成严重后果：病人愈发不明就里、被大量不知其意的信息搞得手足无措。
+随着医院将病例上传到网上以及州法规的放松，很多病人无需等候医生来电就能快速通过互联网和应用程序从化验室直接获得诊断结果。而2012年年底之前，新的联邦法规也许能将此项权利授予所有病人。很多专家担心让化验报告如此唾手可得会造成严重后果：病人愈发不明就里、被大量不知其意的信息搞得手足无措。
 
 According to the Centers for Disease Control and Prevention, about 6.8 billion laboratory tests were performed in the United States in 2007. At that time, more than 4,000 diagnostic tests were available and 1,420 diseases could be detected with genetic testing.
 
@@ -177,7 +177,7 @@ According to the Centers for Disease Control and Prevention, about 6.8 billion l
 
 The impact of waiting for test results on patient anxiety is significant. It has been studied in breast cancer biopsy patients, infertility patients and patients undergoing genetic testing, among others. Stress alone, these studies show, can affect recovery time and exacerbate side effects from medications. The psychological toll in households can also be harsh, especially among family members with clashing coping styles — if, say, one person has an optimistic bent, while the other tends to presume the worst.
 
-有研究证明等待体检结果给病人带来的焦虑是不可小视的，研究对象包括了做过乳腺癌活检的病人、不孕不育病人和进行了基因检测的病人等。结果显示，单是心理压力一项，就能延长康复时间、恶化药物副作用。同时，它也给病人家属带来了严重的精神负担，特别是对于成员处理问题方式迥异的家庭而言——比方说，某个家庭成员特别乐观，而其他人倾向于做最坏的打算。
+有研究证明等待化验结果给病人带来的焦虑是不可小视的，研究对象包括了做过乳腺癌活检的病人、不孕不育病人和进行了基因检测的病人等。结果显示，单是心理压力一项，就能延长康复时间、恶化药物副作用。同时，它也给病人家属带来了严重的精神负担，特别是对于成员处理问题方式迥异的家庭而言——比方说，某个家庭成员特别乐观，而其他人倾向于做最坏的打算。
 
 In an exploratory study at the Wake Forest Baptist Medical Center in Winston-Salem, N.C., published this spring in The Journal of the American College of Radiology, more than 80 percent of patients said they would rather have online access to such results within three days, no matter how dense the jargon, than wait a week or longer for a doctor’s interpretation. By the end of September, the medical center’s patients will be able to directly access their test results three days after physicians sign off and, in some cases, even sooner.
 
@@ -221,11 +221,11 @@ Dr. Jason Poston, an associate fellow at the Bucksbaum Institute for Clinical Ex
 
 The variety and complexity of tests continue to grow. Many do lead to critical interventions. But others merely point to statistical possibilities, opening doors to further testing or to the gray universe of “watchful waiting.” These results often require a subtle, sophisticated interpretation that may be far beyond the average patient’s first reading.
 
-体检的多样性和复杂性持续增长。很多检查结果确实指出需要对病情做出重要干预。而对于仅仅暗示统计学上的可能性的那些结果，可做进一步的测试，也可模棱两可地“继续观察”。这类结果所需的精细、复杂的解释，通常与一个普通病人首次读报告时理解的意思相去甚远。
+化验的多样性和复杂性持续增长。很多检查结果确实指出需要对病情做出重要干预。而对于仅仅暗示统计学上的可能性的那些结果，可做进一步的测试，也可模棱两可地“继续观察”。这类结果所需的精细、复杂的解释，通常与一个普通病人首次读报告时理解的意思相去甚远。
 
 Many experts argue that if patients are to have direct access to test results, doctors and labs should ensure that patients are also provided with information to help them understand the shorthand numbers — and that doctors themselves follow up promptly.
 
-很多专家都认为，如果允许病人直接获取体检报告，医生和实验室应当确保为病人提供相应信息，帮助他们理解报告上的数字——同时医生需要立刻予以跟进。
+很多专家都认为，如果允许病人直接获取化验报告，医生和实验室应当确保为病人提供相应信息，帮助他们理解报告上的数字——同时医生需要立刻予以跟进。
 
 Dr. Poston, an intensive care specialist, teaches medical students to begin educating patients about results even before the test is done. Patients should have realistic expectations about what results may or may not reveal, he tells students, and why some tests still take time to be analyzed. Not only will patient anxiety be somewhat alleviated, Dr. Poston said, but the role of the doctor as critical guide and partner in the patient’s care will be reinforced — even as a patient’s need to participate in decision-making will be supported.
 
@@ -233,11 +233,11 @@ Dr. Poston, an intensive care specialist, teaches medical students to begin educ
 
 Informed, calmer patients, Dr. Poston added, are more likely to comply with tests, surgery and medication, increasing the likelihood of better outcomes. But a doctor needs time to assess the patient’s psychological needs — and doctors can’t bill for hand-holding. “How do we come to a system where we can do right by the patient and also make the practice financially viable?” Dr. Poston said.
 
-波斯顿医生补充道：充分知情、情绪镇定的病人亦更能接受体检结果、手术和用药，进而改善预后。但是，医生照顾病人的心理需求是要花时间的，而他们又不能为这种无微不至的关怀收费。波斯顿医生说：“我们的医疗系统怎样才能既满足病人所需、又能长期盈利呢？”
+波斯顿医生补充道：充分知情、情绪镇定的病人亦更能接受化验结果、手术和用药，进而改善预后。但是，医生照顾病人的心理需求是要花时间的，而他们又不能为这种无微不至的关怀收费。波斯顿医生说：“我们的医疗系统怎样才能既满足病人所需、又能长期盈利呢？”
 
 Mrs. Szilagyi, the Houston woman who had the stress-strafed episode with online results, also went through two difficult pregnancies. Those times, she did not have direct access to results, which were given to her, and carefully translated, by a genetics counselor.
 
-那位来自休斯顿、被网上的结果吓得够呛的西拉吉夫人曾经历过两次麻烦的怀孕。那时候，她还无法直接得到体检报告，所有结果都是由一位遗传专家仔细讲解给她的。
+那位来自休斯顿、被网上的结果吓得够呛的西拉吉夫人曾经历过两次麻烦的怀孕。那时候，她还无法直接得到化验报告，所有结果都是由一位遗传专家仔细讲解给她的。
 
 Her divergent experiences offer a window onto the new and the traditional means of learning vital medical information.
 
@@ -277,7 +277,7 @@ In Texas, where the Szilagyis live, patients can get access to lab results if th
 
 Across the country, patients and providers will have to decide how to manage the new rights. Will the responsibility for learning results begin to shift from doctor to patient? How will doctors ensure that patients understand what they have read online? How will doctors manage the heavy traffic of panicky phone calls?
 
-整个美国的病人和提供体检报告的人都将面临着如何应对这项新法规的问题。理解检查结果的责任会不会从医生转嫁到病人身上？医生如何确保病人明白网上看到的报告？医生怎样处理随之而来铺天盖地的病人紧张兮兮的电话求助？
+整个美国的病人和提供化验报告的人都将面临着如何应对这项新法规的问题。理解检查结果的责任会不会从医生转嫁到病人身上？医生如何确保病人明白网上看到的报告？医生怎样处理随之而来铺天盖地的病人紧张兮兮的电话求助？
 
 Few argue, in theory, with the notion that patients should have faster access to test results. But after waiting for more test results than she cares to remember, Mrs. Szilagyi believes sometimes an expert’s interpretation is more important than instant answers.
 
@@ -305,7 +305,7 @@ As patients wait for test results, anxiety rises as time slips into slow motion.
 
 Start before the test itself.
 
-从体检前开始准备：
+从化验前开始准备：
 
 Because fear can cloud memory during talks with doctors, take notes. If you can, bring a friend to catch details you may miss.
 
@@ -353,6 +353,6 @@ For patients who find anxiety crippling, some recommend medication. Dr. Elvira V
 
 Dr. Montgomery says mental toughness may be overrated. “People say, ‘Suck it up!’ ” he said. But waiting for the results of an important medical test, he added, “is an out-of-ordinary experience, a significant life event. It’s O.K. to ask for help.”
 
-蒙哥马利医生则认为，人们对意志力的评价过高了。“有人会说‘坚强点儿！’”他说。但是等候重要体检结果“是个不寻常的经历，是生活中的大事。寻求帮助是理所应当的”。
+蒙哥马利医生则认为，人们对意志力的评价过高了。“有人会说‘坚强点儿！’”他说。但是等候重要化验结果“是个不寻常的经历，是生活中的大事。寻求帮助是理所应当的”。
 
 “本文发表于纽约时报中文网（http://cn.nytimes.com），版权归纽约时报公司所有。任何单位及个人未经许可，不得擅自转载或翻译。订阅纽约时报中文网新闻电邮：http://nytcn.me/subscription/”
