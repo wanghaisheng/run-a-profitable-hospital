@@ -24,25 +24,23 @@ Szilagyi太太随后也查看了自己的结果，但什么都没有。相反，
 
 对于大多数患者来讲，在做了一个重要的化验之后，几乎都要经过炼狱拌的心理折磨。医生并不总是能减轻患者的焦虑，亦或是实事求是地告知你坏消息，第一时间电话告知你结果，有时候甚至还会把结果弄丢。
 
-As medical records move online and state regulations loosen, many patients can bypass the doctor’s call and get the results of these tests faster, directly from labs via Web sites and apps. But new federal regulations may permit all patients that right by year’s end. Many experts are concerned that pervasive direct access to test results may have serious drawbacks, leaving patients even more confused and overwhelmed by information they do not know how to interpret.
+随着可以在线查看病历以及州法律越来越松，大多数患者都可以不用坐等医生电话，直接通过网站或者app快速直接浏览自己的化验结果。诸多专家纷纷表示患者直接查看自己的化验报告可能会引发严重的问题，导致患者更加困惑，看到自己无法解释的报告内容而迷茫。
 
-According to the Centers for Disease Control and Prevention, about 6.8 billion laboratory tests were performed in the United States in 2007. At that time, more than 4,000 diagnostic tests were available and 1,420 diseases could be detected with genetic testing.
+根据疾控中心的统计，美国人2007年大约要做68亿次化验。大概有4000多种化验项目，通过基因检测可以诊断1420多种疾病。
 
-The impact of waiting for test results on patient anxiety is significant. It has been studied in [breast cancer biopsy patients](//www.ncbi.nlm.nih.gov/pubmed/19244038), [infertility patients](//www.ncbi.nlm.nih.gov/pubmed/17586338) and [patients undergoing genetic testing](//psycnet.apa.org/journals/ccp/70/3/784/), among others. Stress alone, these studies show, can affect recovery time and exacerbate side effects from medications. The psychological toll in households can also be harsh, especially among family members with clashing coping styles — if, say, one person has an optimistic bent, while the other tends to presume the worst.
+等待化验结果的过程，对患者焦虑心情的影响是十分显著的。研究表明，随之而来的压力会影响康复时长，加剧药物所带来的副作用。对于家庭来说造成的心理负担也是极大的，尤其是家庭成员应对方式不同时，有些人倾向于往好处想，有些人倾向于往坏处想。
 
-In an exploratory study at the Wake Forest Baptist Medical Center in Winston-Salem, N.C., published this spring in The Journal of the American College of Radiology, more than 80 percent of patients said they would rather have online access to such results within three days, no matter how dense the jargon, than wait a week or longer for a doctor’s interpretation. By the end of September, the medical center’s patients will be able to directly access their test results three days after physicians sign off and, in some cases, even sooner.
+ Wake Forest Baptist Medical Center 医院完成一项研究表明，80%的患者表示只要是3天内他们都更乐意利用网络工具直接查看自己的报告，不愿意多等一个礼拜或更长的时间听医生对报告内容的解读。9月底，这家医院的所有患者都可以在医生审核完报告以后的三个工作日内直接查看自己的化验报告。
+ 
+Elvira V. Lang 医生就职于哈佛医学院，正在研究皮质醇患者在等待活检结果时所产生的压力水平对治疗的影响程度。在拿到报告之前，你可以往好了想，也可以往坏了想，但不管怎么说，只有明确知道了报告内容，你才好做下一步的打算。
 
-“Once you know what you have, you can make plans,” said Dr. Elvira V. Lang, a radiologist who taught at Harvard Medical School and has studied the effect of stress on [cortisol](//health.nytimes.com/health/guides/test/cortisol-level/overview.html?inline=nyt-classifier "In-depth reference and news articles about Cortisol level.") levels in patients waiting for biopsy results. Until then, she said, you may imagine the worst, “but you can’t map the next step.”
+虽然很多化验项目数小时内就可以拿到报告，但很多涉及组织培养和解剖的项目仍然要等上数天，甚至数周。
 
-While some results are now available within hours, many high-stakes tests, involving growing cultures or tissue dissection, still require days, even weeks. And according to Dr. Hardeep Singh, who [wrote about direct access to test results](//jama.jamanetwork.com/article.aspx?articleid=1104710 "JAMA article.") last December in The Journal of the American Medical Association, physicians themselves do not always give patients results in a timely manner.
+Dr. Hardeep Singh是 Houston Veterans Affairs Research Center of Excellence的医疗质量项目负责人，他表示医生并不会第一时间告知患者化验结果。多份研究结果表明，当化验结果异常时，包括潜在肿瘤的情况，其中36%医生都没有告知患者或者没有及时告知患者。当然原因有很多，最主要的是没有一个很好的系统能够让医生有效的管理和跟踪一周内就数以百计的化验结果。
 
-Dr. Singh, who leads the health quality program at the Houston Veterans Affairs Research Center of Excellence, said in an interview that several studies have shown that doctors delay or fail to notify patients of as many as 36 percent of abnormal test results, including possible malignancies.
+自2003年开始，患者就拥有从医生、医院和其他治疗机构获取医疗病历的权利。但第三方实验室/化验科是个例外，它们只是完成化验项目，并把报告提交给门诊或者住院医生。
 
-There are many reasons, he said, chief among them the lack of reliable tracking systems to follow up the hundreds of results that a busy physician typically receives in a week.
-
-Since 2003, patients have been entitled [to receive medical records](https://www.youtube.com/watch?v=JY1l5s8ED5c "A video from Health and Human Services.") from doctors, hospitals and health plans within 30 days of their request. Clinical labs, which perform most tests and are required to report to the physicians, were the exception.
-
-Seven states permit labs to release reports directly to patients, seven states allow such reporting with physician approval, and 23 states are silent on the issue. Thirteen states mandate that labs report only to physicians. But potential changes under review to federal health privacy regulations would allow all patients to request results directly from labs, which would have 30 days to comply.
+其中7个州允许实验室把化验报告直接给患者，7个州要求在医生的授权下可以把化验报告给患者，其他23个州则没有明确的政策。但随着当下正在修订的隐私法案的落地，将会推动越来越多的实验室把化验报告直接给到患者。
 
 Would quicker, direct access reduce anxiety? Or, without a medical professional offering context and explanation, could it provoke greater anxiety or even false assurance?
 
