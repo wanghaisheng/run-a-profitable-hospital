@@ -20,3 +20,6 @@ Design Thinking
 
 
 https://dschool.stanford.edu/resources/chart-a-new-course-put-design-thinking-to-work
+
+
+http://myweb.fcu.edu.tw/~mhsung/NPDP/DesignThinking/DT_index.htm
