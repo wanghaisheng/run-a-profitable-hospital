@@ -12,3 +12,6 @@ https://hbr.org/search?term=b.%20joseph%20pine%20ii&loaded=2
 
 
 https://hbr.org/search?search_type=&term=Customer+Experience&sort=popularity_score
+
+
+https://dschool.stanford.edu/resources/chart-a-new-course-put-design-thinking-to-work
